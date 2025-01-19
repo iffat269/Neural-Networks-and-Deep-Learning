@@ -1,2 +1,3 @@
 # Neural-Networks-and-Deep-Learning
 This repository offers a repertoire of rudimentary neural networks and deeplearning implementations developed with Python. It is intended for people who seek to study the basics of neural networks and deeplearning.
+Exhibited projects offer basic codes to define the neural network structure, initialize_parameters, forward_propagation, compute_cost, implement backpropagation, update parameters, integrate and build neural network models, and finally test with predict and use planner database to evaluate. Additionally, tune the hidden layer to observe different behaviour.
