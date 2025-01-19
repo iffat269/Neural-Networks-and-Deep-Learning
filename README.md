@@ -4,3 +4,5 @@ Exhibited projects offer basic codes to define the neural network structure, ini
 
 **Planar Data Classification with One Hidden Layer**
 This project demonstrates basic neural network and deep learning implementations in Python. It covers defining the neural network structure, initializing parameters, forward propagation, cost computation, backpropagation, parameter updates, and integrating these to build and test models. Additionally, it enables hidden layer tuning to analyze different behaviors and uses a planner database for evaluation. This serves as an excellent starting point for understanding fundamental neural network concepts.
+
+**Developing a Deep Neural Network: A Comprehensive Guide**
